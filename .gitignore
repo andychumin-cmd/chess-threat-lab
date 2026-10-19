@@ -1,0 +1,12 @@
+*.o
+*.exe
+*.out
+*.aux
+*.log
+chess_threat
+build/
+.DS_Store
+Thumbs.db
+*.pfx
+*.p12
+*.pem
